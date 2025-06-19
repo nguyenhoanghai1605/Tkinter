@@ -1,2 +1,5 @@
 ## Tkinter
 ![app](https://github.com/user-attachments/assets/36b1370c-6697-47ea-bef3-03140a69ebe5)
+
+## Author
+Nguyen Hoang Hai - [@nguyenhoanghai1605](https://github.com/nguyenhoanghai1605)
